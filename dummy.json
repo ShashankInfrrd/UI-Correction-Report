@@ -1,0 +1,368 @@
+{
+    "startDate": "2022-07-01T00:01:00",
+    "endDate": "2022-07-31T23:59:00",
+    "userModelId": "58b66132-769e-4200-aa0c-27715f2cc533",
+    "fileUrl": "D://report//58b66132-769e-4200-aa0c-27715f2cc533.csv",
+    "accuracy": {
+        "supplierStreet": {
+            "trueCount": 7707,
+            "falseCount": 6717,
+            "truePercent": 53.43178036605657,
+            "falsePercent": 46.56821963394343
+        },
+        "invoiceCurrency1": {
+            "trueCount": 2943,
+            "falseCount": 11481,
+            "truePercent": 20.403494176372714,
+            "falsePercent": 79.59650582362728
+        },
+        "supplierCountry": {
+            "trueCount": 2961,
+            "falseCount": 11463,
+            "truePercent": 20.52828618968386,
+            "falsePercent": 79.47171381031613
+        },
+        "invoiceCurrency4": {
+            "trueCount": 0,
+            "falseCount": 14424,
+            "truePercent": 0.0,
+            "falsePercent": 100.0
+        },
+        "invoiceCurrency2": {
+            "trueCount": 0,
+            "falseCount": 14424,
+            "truePercent": 0.0,
+            "falsePercent": 100.0
+        },
+        "invoiceCurrency3": {
+            "trueCount": 0,
+            "falseCount": 14424,
+            "truePercent": 0.0,
+            "falsePercent": 100.0
+        },
+        "invoiceVatAmount10": {
+            "trueCount": 11,
+            "falseCount": 14413,
+            "truePercent": 0.07626178591236828,
+            "falsePercent": 99.92373821408763
+        },
+        "lineItems": {
+            "trueCount": 13117,
+            "falseCount": 1307,
+            "truePercent": 90.93871325568497,
+            "falsePercent": 9.06128674431503
+        },
+        "invoiceVatRate9": {
+            "trueCount": 32,
+            "falseCount": 14392,
+            "truePercent": 0.22185246810870773,
+            "falsePercent": 99.77814753189129
+        },
+        "invoiceVatRate8": {
+            "trueCount": 50,
+            "falseCount": 14374,
+            "truePercent": 0.34664448141985577,
+            "falsePercent": 99.65335551858014
+        },
+        "supplierVatNumber": {
+            "trueCount": 5244,
+            "falseCount": 9180,
+            "truePercent": 36.356073211314474,
+            "falsePercent": 63.643926788685526
+        },
+        "invoiceVatRate7": {
+            "trueCount": 108,
+            "falseCount": 14316,
+            "truePercent": 0.7487520798668885,
+            "falsePercent": 99.25124792013311
+        },
+        "invoiceVatRate6": {
+            "trueCount": 144,
+            "falseCount": 14280,
+            "truePercent": 0.9983361064891847,
+            "falsePercent": 99.00166389351082
+        },
+        "invoiceVatRate5": {
+            "trueCount": 218,
+            "falseCount": 14206,
+            "truePercent": 1.5113699389905713,
+            "falsePercent": 98.48863006100943
+        },
+        "invoiceVatRate4": {
+            "trueCount": 290,
+            "falseCount": 14134,
+            "truePercent": 2.0105379922351636,
+            "falsePercent": 97.98946200776484
+        },
+        "invoiceVatRate": {
+            "trueCount": 0,
+            "falseCount": 14424,
+            "truePercent": 0.0,
+            "falsePercent": 100.0
+        },
+        "invoiceVatRate3": {
+            "trueCount": 443,
+            "falseCount": 13981,
+            "truePercent": 3.0712701053799223,
+            "falsePercent": 96.92872989462008
+        },
+        "invoiceVatRate2": {
+            "trueCount": 811,
+            "falseCount": 13613,
+            "truePercent": 5.622573488630061,
+            "falsePercent": 94.37742651136995
+        },
+        "invoiceVatRate1": {
+            "trueCount": 1423,
+            "falseCount": 13001,
+            "truePercent": 9.865501941209095,
+            "falsePercent": 90.1344980587909
+        },
+        "supplierStateCode": {
+            "trueCount": 0,
+            "falseCount": 14424,
+            "truePercent": 0.0,
+            "falsePercent": 100.0
+        },
+        "invoiceVatAmount": {
+            "trueCount": 0,
+            "falseCount": 14424,
+            "truePercent": 0.0,
+            "falsePercent": 100.0
+        },
+        "employeeName": {
+            "trueCount": 4503,
+            "falseCount": 9921,
+            "truePercent": 31.218801996672212,
+            "falsePercent": 68.78119800332779
+        },
+        "supplierWebsite": {
+            "trueCount": 1594,
+            "falseCount": 12830,
+            "truePercent": 11.051026067665003,
+            "falsePercent": 88.948973932335
+        },
+        "confirmationNumber": {
+            "trueCount": 5026,
+            "falseCount": 9398,
+            "truePercent": 34.844703272323905,
+            "falsePercent": 65.15529672767609
+        },
+        "invoiceTotalExVat": {
+            "trueCount": 4197,
+            "falseCount": 10227,
+            "truePercent": 29.097337770382698,
+            "falsePercent": 70.9026622296173
+        },
+        "clientStreet": {
+            "trueCount": 2520,
+            "falseCount": 11904,
+            "truePercent": 17.470881863560734,
+            "falsePercent": 82.52911813643927
+        },
+        "invoiceVatAmount8": {
+            "trueCount": 52,
+            "falseCount": 14372,
+            "truePercent": 0.36051026067665,
+            "falsePercent": 99.63948973932335
+        },
+        "supplierState": {
+            "trueCount": 2240,
+            "falseCount": 12184,
+            "truePercent": 15.52967276760954,
+            "falsePercent": 84.47032723239046
+        },
+        "invoiceVatAmount9": {
+            "trueCount": 25,
+            "falseCount": 14399,
+            "truePercent": 0.17332224070992788,
+            "falsePercent": 99.82667775929008
+        },
+        "invoiceTotalVatAmount": {
+            "trueCount": 5601,
+            "falseCount": 8823,
+            "truePercent": 38.831114808652245,
+            "falsePercent": 61.168885191347755
+        },
+        "invoiceVatAmount4": {
+            "trueCount": 286,
+            "falseCount": 14138,
+            "truePercent": 1.9828064337215752,
+            "falsePercent": 98.01719356627842
+        },
+        "invoiceVatAmount5": {
+            "trueCount": 193,
+            "falseCount": 14231,
+            "truePercent": 1.3380476982806433,
+            "falsePercent": 98.66195230171935
+        },
+        "invoiceVatAmount6": {
+            "trueCount": 137,
+            "falseCount": 14287,
+            "truePercent": 0.9498058790904049,
+            "falsePercent": 99.0501941209096
+        },
+        "invoiceVatAmount7": {
+            "trueCount": 113,
+            "falseCount": 14311,
+            "truePercent": 0.7834165280088741,
+            "falsePercent": 99.21658347199113
+        },
+        "invoiceVatAmount1": {
+            "trueCount": 5675,
+            "falseCount": 8749,
+            "truePercent": 39.34414864115363,
+            "falsePercent": 60.65585135884637
+        },
+        "employeeCountry": {
+            "trueCount": 1916,
+            "falseCount": 12508,
+            "truePercent": 13.283416528008873,
+            "falsePercent": 86.71658347199113
+        },
+        "employeeZipCode": {
+            "trueCount": 2340,
+            "falseCount": 12084,
+            "truePercent": 16.22296173044925,
+            "falsePercent": 83.77703826955076
+        },
+        "invoiceVatAmount2": {
+            "trueCount": 1127,
+            "falseCount": 13297,
+            "truePercent": 7.813366611203549,
+            "falsePercent": 92.18663338879645
+        },
+        "invoiceVatAmount3": {
+            "trueCount": 425,
+            "falseCount": 13999,
+            "truePercent": 2.9464780920687743,
+            "falsePercent": 97.05352190793123
+        },
+        "supplierCity": {
+            "trueCount": 8145,
+            "falseCount": 6279,
+            "truePercent": 56.468386023294514,
+            "falsePercent": 43.53161397670549
+        },
+        "clientName": {
+            "trueCount": 4105,
+            "falseCount": 10319,
+            "truePercent": 28.45951192457016,
+            "falsePercent": 71.54048807542985
+        },
+        "employeeStreet": {
+            "trueCount": 2404,
+            "falseCount": 12020,
+            "truePercent": 16.666666666666664,
+            "falsePercent": 83.33333333333334
+        },
+        "secondaryCurrency": {
+            "trueCount": 20,
+            "falseCount": 14404,
+            "truePercent": 0.13865779256794233,
+            "falsePercent": 99.86134220743206
+        },
+        "employeeCity": {
+            "trueCount": 2939,
+            "falseCount": 11485,
+            "truePercent": 20.375762617859124,
+            "falsePercent": 79.62423738214088
+        },
+        "primaryCurrency": {
+            "trueCount": 7708,
+            "falseCount": 6716,
+            "truePercent": 53.438713255684966,
+            "falsePercent": 46.56128674431503
+        },
+        "invoiceCurrency": {
+            "trueCount": 0,
+            "falseCount": 14424,
+            "truePercent": 0.0,
+            "falsePercent": 100.0
+        },
+        "supplierContactNumber": {
+            "trueCount": 1789,
+            "falseCount": 12635,
+            "truePercent": 12.40293954520244,
+            "falsePercent": 87.59706045479756
+        },
+        "invoiceVatRate10": {
+            "trueCount": 18,
+            "falseCount": 14406,
+            "truePercent": 0.12479201331114809,
+            "falsePercent": 99.87520798668885
+        },
+        "invoiceNumber": {
+            "trueCount": 5129,
+            "falseCount": 9295,
+            "truePercent": 35.558790904048806,
+            "falsePercent": 64.4412090959512
+        },
+        "clientZipCode": {
+            "trueCount": 2100,
+            "falseCount": 12324,
+            "truePercent": 14.559068219633945,
+            "falsePercent": 85.44093178036606
+        },
+        "supplierName": {
+            "trueCount": 10241,
+            "falseCount": 4183,
+            "truePercent": 70.99972268441486,
+            "falsePercent": 29.000277315585137
+        },
+        "invoiceDate": {
+            "trueCount": 7084,
+            "falseCount": 7340,
+            "truePercent": 49.11259012756517,
+            "falsePercent": 50.88740987243483
+        },
+        "clientVatNumber": {
+            "trueCount": 422,
+            "falseCount": 14002,
+            "truePercent": 2.9256794231835825,
+            "falsePercent": 97.07432057681642
+        },
+        "employeeState": {
+            "trueCount": 2413,
+            "falseCount": 12011,
+            "truePercent": 16.72906267332224,
+            "falsePercent": 83.27093732667777
+        },
+        "clientCountry": {
+            "trueCount": 1730,
+            "falseCount": 12694,
+            "truePercent": 11.993899057127011,
+            "falsePercent": 88.00610094287299
+        },
+        "invoiceTotalIncVat": {
+            "trueCount": 7330,
+            "falseCount": 7094,
+            "truePercent": 50.81808097615086,
+            "falsePercent": 49.18191902384914
+        },
+        "supplierZipcode": {
+            "trueCount": 6617,
+            "falseCount": 7807,
+            "truePercent": 45.87493067110371,
+            "falsePercent": 54.12506932889628
+        },
+        "supplierAlternativeRegistrationNumber": {
+            "trueCount": 737,
+            "falseCount": 13687,
+            "truePercent": 5.109539656128675,
+            "falsePercent": 94.89046034387133
+        },
+        "clientCity": {
+            "trueCount": 1999,
+            "falseCount": 12425,
+            "truePercent": 13.858846367165834,
+            "falsePercent": 86.14115363283416
+        },
+        "clientState": {
+            "trueCount": 1410,
+            "falseCount": 13014,
+            "truePercent": 9.775374376039933,
+            "falsePercent": 90.22462562396007
+        }
+    }
+}
